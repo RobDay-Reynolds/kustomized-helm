@@ -1,0 +1,4 @@
+dependencies:
+- name: stackstorm-ha
+  version: 0.28.0
+  repository: https://helm.stackstorm.com/
